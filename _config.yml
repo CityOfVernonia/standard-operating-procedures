@@ -1,0 +1,16 @@
+# site
+title: Vernonia Municipal Code
+description: City of Vernonia municipal code and other official documents written in markdown for displaying on the web.
+
+# markdown processing
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+  auto_ids: false
+
+# permalinks
+permalink: pretty
+
+# include files
+include:
+  - _headers

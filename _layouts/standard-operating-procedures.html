@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }} | Standard Operating Procedures</title>
+    <meta name="description" content="{{ page.description }}" />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <script type="module" src="/assets/js/anchors.js"></script>
+  </head>
+  <body class="markdown-body standard-operating-procedures">
+    {%- if page.authoritative == false -%}{%- include non-authoritative.html -%}{%- endif -%}
+    <header>
+      <h2>City of Vernonia</h2>
+      <h2>Standard Operating Procedures</h2>
+      <h1>{{ page.title }}</h1>
+    </header>
+    <main>{{ content }}</main>
+    {%- include footer.html -%}
+  </body>
+</html>
