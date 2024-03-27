@@ -1,9 +1,8 @@
 ---
 title: Floodplain Development
 description: Standard operating procedures for managing development within the floodplain.
-# section: Add a section name for multi-page SOPs
 permalink: /standard-operating-procedures/floodplain-development/
-layout: sop
+layout: standard-operating-procedures
 authoritative: false
 ---
 
@@ -82,11 +81,11 @@ Do not provide this document to the public when relating information about flood
 
 **Flood Zones** - Flood hazard areas identified on the Flood Insurance Rate Maps 41009C0377D and 41009C381D within Vernonia City Limits:
 
-* **Zone AE** - The area that will be inundated by the flood event having a 1% chance of being equaled or exceeded in any given year. [[1]](https://www.fema.gov/glossary/flood-zones)
+- **Zone AE** - The area that will be inundated by the flood event having a 1% chance of being equaled or exceeded in any given year. [[1]](https://www.fema.gov/glossary/flood-zones)
 
-* **Zone AE Regulatory Floodway** - The area that will be inundated by the flood event having a 1% chance of being equaled or exceeded in any given year; and the channel of the watercourse and adjacent land areas are reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than a designated height. [[1]](https://www.fema.gov/glossary/flood-zones) [[2]](https://www.fema.gov/glossary/floodway)
+- **Zone AE Regulatory Floodway** - The area that will be inundated by the flood event having a 1% chance of being equaled or exceeded in any given year; and the channel of the watercourse and adjacent land areas are reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than a designated height. [[1]](https://www.fema.gov/glossary/flood-zones) [[2]](https://www.fema.gov/glossary/floodway)
 
-* **Zone X Shaded[^shadedx]** - The area that will be inundated by the flood event having a 0.2% chance of being equaled or exceeded in any given year. [[1]](https://www.fema.gov/glossary/flood-zones)
+- **Zone X Shaded[^shadedx]** - The area that will be inundated by the flood event having a 0.2% chance of being equaled or exceeded in any given year. [[1]](https://www.fema.gov/glossary/flood-zones)
 
 **Floodplain Manager** - The person responsible for reviewing and approving Floodplain Development Permits (or that person's designee).
 
@@ -249,14 +248,14 @@ All fences in the SFHA must be of the type/design as allowed at the location of 
 1. Floodplain Manager files the Fence Permit per [Record Keeping](#record-keeping).
 
 | Type | Zone AE (Non-regulatory Floodway)        | Zone AE (Regulatory Floodway)           |
-| ---- | ---------------------------------------- | --------------------------------------- |
-| A    | Yes                                      | Yes                                     |
-| B    | Yes                                      | Yes, with limited cross channel fencing |
-| C    | Design Review Required<sup>i</sub>       | Design Review Required<sup>i</sub>      |
-| D    | Yes, if open at base to BFE              | No<sup>ii</sup>                         |
-| E    | Yes, if adequate openings at base to BFE | No<sup>ii</sup>                         |
-| F    | Yes, if adequate openings at base to BFE | No<sup>ii</sup>                         |
-| G    | Yes, if adequate openings at base to BFE | No<sup>ii</sup>                         |
+| :--: | ---------------------------------------- | --------------------------------------- |
+|  A   | Yes                                      | Yes                                     |
+|  B   | Yes                                      | Yes, with limited cross channel fencing |
+|  C   | Design Review Required<sup>i</sup>       | Design Review Required<sup>i</sup>      |
+|  D   | Yes, if open at base to BFE              | No<sup>ii</sup>                         |
+|  E   | Yes, if adequate openings at base to BFE | No<sup>ii</sup>                         |
+|  F   | Yes, if adequate openings at base to BFE | No<sup>ii</sup>                         |
+|  G   | Yes, if adequate openings at base to BFE | No<sup>ii</sup>                         |
 
 A. Open barb or barbless wire. Open means no more than one horizontal strand per foot of height  
 B. Open pipe or rail fencing (e.g. corrals). Open means rails occupy less than 10% of the fence area and posts are spaced no closer than 8 feet apart.  
