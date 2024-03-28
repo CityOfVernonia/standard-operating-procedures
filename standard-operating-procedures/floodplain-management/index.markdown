@@ -253,7 +253,7 @@ All fences in the SFHA must be of the type/design as allowed at the location of 
 |  B   | Yes                                      | Yes, with limited cross channel fencing |
 |  C   | Design Review Required<sup>i</sup>       | Design Review Required<sup>i</sup>      |
 |  D   | Yes, if open at base to BFE              | No<sup>ii</sup>                         |
-|  E   | Yes, if adequate openings at base to BFE | No<sup>ii</sup>                         |
+|  E   | Yes, if open at base to BFE              | No<sup>ii</sup>                         |
 |  F   | Yes, if adequate openings at base to BFE | No<sup>ii</sup>                         |
 |  G   | Yes, if adequate openings at base to BFE | No<sup>ii</sup>                         |
 
