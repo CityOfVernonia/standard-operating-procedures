@@ -1,13 +1,13 @@
 ---
 title: Vernonia Municipal Code
-description: Making the laws and guiding documents of the City of Vernonia available online.
+description: The laws and guiding documents of the City of Vernonia.
 permalink: /
 layout: default
 ---
 
 # Vernonia Municipal Code
 
-Making the laws and guiding documents of the City of Vernonia available online.
+The laws and guiding documents of the City of Vernonia.
 
 ## City Charter
 
