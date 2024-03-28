@@ -24,7 +24,7 @@ Each document type has its own format and front matter spec.
 
 ### Standard Operating Procedures (SOP)
 
-File convention: `standard-operating-procedures\<NAME-LOWERCASE-HYPHENATED>\index.markdown`
+File convention: `standard-operating-procedures\<NAME-LOWERCASE-HYPHENATED>.markdown`
 
 A SOP is a single document with numbered `H2` headings separating sections. Sections can contain paragraphs, lists, tables and blockquotes as needed.
 
