@@ -19,33 +19,33 @@ Do not provide this document to the public when relating information about flood
 
 ## Contents
 
-[Definitions](#definitions)
+[1. Definitions](#1-definitions)
 
-[Residential Development](#residential-development)
+[2. Residential Development](#2-residential-development)
 
-[Non-Residential Development](#non-residential-development)
+[3. Non-Residential Development](#3-non-residential-development)
 
-[Accessory Structures (Residential Zoned Land)](#accessory-structures-residential-zoned-land)
+[4. Accessory Structures (Residential Zoned Land)](#4-accessory-structures-residential-zoned-land)
 
-[Addition to an Existing Structure](#addition-to-an-existing-structure)
+[5. Addition to an Existing Structure](#5-addition-to-an-existing-structure)
 
-[Non-Structural Activities](#non-structural-activities)
+[6. Non-Structural Activities](#6-non-structural-activities)
 
-[Fence Permits](#fence-permits)
+[7. Fence Permits](#7-fence-permits)
 
-[Substantial Improvement](#substantial-improvement)
+[8. Substantial Improvement](#8-substantial-improvement)
 
-[Substantial Damage](#substantial-damage)
+[9. Substantial Damage](#9-substantial-damage)
 
-[Disaster Substantial Damage Assessments](#disaster-substaintial-damage-assessments)
+[10. Disaster Substantial Damage Assessments](#10-disaster-substaintial-damage-assessments)
 
-[Record Keeping](#record-keeping)
+[11. Record Keeping](#11-record-keeping)
 
-[Elevation Certificates of Record](#elevation-certificates-of-record)
+[12. Elevation Certificates of Record](#12-elevation-certificates-of-record)
 
-[Violations](#violations)
+[13. Violations](#13-violations)
 
-## Definitions
+## 1. Definitions
 
 **Applicant** - The person applying for a permit, i.e., owner, owner's representative, contractor, etc.
 
@@ -107,7 +107,7 @@ Do not provide this document to the public when relating information about flood
 
 **Vernonia City Limits** - The legal municipal boundary of the City of Vernonia inside of which the City has authority over floodplain management.
 
-## Residential Development
+## 2. Residential Development
 
 Construction of new dwellings and elevation of existing dwellings, including manufactured homes, within the SFHA.
 
@@ -157,7 +157,7 @@ Construction of new dwellings and elevation of existing dwellings, including man
 
 1. The Floodplain Manager files the Floodplain Development permit and related documents per [Record Keeping](#record-keeping).
 
-## Non-Residential Development
+## 3. Non-Residential Development
 
 Development of commercial and industrial uses and related structures.
 
@@ -173,7 +173,7 @@ Due to the broad nature of commercial and industrial development; and the more t
 
 1. The Floodplain Manager files the Floodplain Development permit and related documents per [Record Keeping](#record-keeping).
 
-## Accessory Structures (Residential Zoned Land)
+## 4. Accessory Structures (Residential Zoned Land)
 
 Non-habitable structures on residential lots, i.e., detached garages, shops, sheds, etc., within the SFHA.
 
@@ -199,7 +199,7 @@ Non-habitable structures on residential lots, i.e., detached garages, shops, she
 
 1. The Floodplain Manager files the Floodplain Development permit and related documents per [Record Keeping](#record-keeping).
 
-## Addition to an Existing Structure
+## 5. Addition to an Existing Structure
 
 Any alteration to an existing structure within the SFHA which increases the overall area of said structure by means of enlarging the building footprint or adding additional levels.
 
@@ -217,7 +217,7 @@ Use procedures in Section [Residential Development](#residential-development), [
 
 Adding levels to a structure in the SFHA, which is not in compliance with _Title 9-05_, would be required to come into compliance with _Title 9-05_ if the alteration constitutes a substantial improvement. See Section 8.
 
-## Non-Structural Activities
+## 6. Non-Structural Activities
 
 Any activity within the SFHA related to grading, excavation, construction of public or private roadways and utilities, or similar activities as regulated by _Public Works Standards_ requiring review and approval by the Engineer.
 
@@ -233,7 +233,7 @@ Any activity within the SFHA related to grading, excavation, construction of pub
 
 1. Floodplain Manager files the Floodplain Development permit and related documents per [Record Keeping](#record-keeping).
 
-## Fence Permits
+## 7. Fence Permits
 
 All fences in the SFHA must be of the type/design as allowed at the location of the proposed fence.
 
@@ -268,7 +268,7 @@ G. Masonry walls
 <sup>i</sup> Ensure fence will collapse under anticipated base flood conditions. Debris impact must be considered.  
 <sup>ii</sup> Unless shown, using FEMA-approved engineering/modeling standards, to cause no-rise in BFE.
 
-## Substantial Improvement
+## 8. Substantial Improvement
 
 Any structure in the SFHA which is not in compliance with _Title 9-05_, and a Building Permit for said structure is submitted with an improvement value fifty percent (50%) or greater than the Real Market Value of the structure per the Columbia County Assessor must come into compliance with _Title 9-05_ as part of or before issuing the Building Permit.
 
@@ -286,7 +286,7 @@ If the improvement is determined to be substantial, the Floodplain Manager:
 
 **Important!** The Floodplain Manager should encourage anyone who is rehabilitating a structure, for which the improvements do not constitute substantial improvement, to consider bringing the structure into compliance with _Title 9-05_ voluntarily. Talking points include long term savings on flood insurance, protecting the value of investment in the structure, increasing the value structure, and improving the safety of future occupants and their personal property.
 
-## Substantial Damage
+## 9. Substantial Damage
 
 In the event of a disaster, which activates the EOP and damages multiple structures, go to [Disaster Substantial Damage Assessments](#disaster-substaintial-damage-assessments).
 
@@ -316,7 +316,7 @@ Any structure in the SFHA which is not in compliance with _Title 9-05_ and is da
 
 **Important!** The Floodplain Manager should encourage anyone who is repairing a structure, for which the improvements do not constitute substantial damage, to consider bringing the structure into compliance with _Title 9-05_ voluntarily. Talking points include long term savings on flood insurance, protecting the value of investment in the structure, increasing the value structure, and improving the safety of future occupants and their personal property.
 
-## Disaster Substantial Damage Assessments
+## 10. Disaster Substantial Damage Assessments
 
 In accordance with the EOP, emergency personnel are to work with local/state/federal authorities, insurance company representatives, construction professionals, etc., to quickly assess damages to inform all concerned parties for the purposes of making decisions regarding governmental recovery assistance, repair costs, etc. The Floodplain Manager’s responsibilities related to substantial damage are to:
 
@@ -330,11 +330,11 @@ In accordance with the EOP, emergency personnel are to work with local/state/fed
 
 - Coordinate with the Emergency Manager during recovery operations to schedule meetings with property owners to discuss the substantial damage assessment and any recovery assistance. Use procedures in [Substantial Damage](#substantial-damage) for any structure determined to be substantially damaged.
 
-## Record Keeping
+## 11. Record Keeping
 
 _Being revised per new Planning Files naming/numbering scheme._
 
-## Elevation Certificates of Record
+## 12. Elevation Certificates of Record
 
 The City of Vernonia obtains Elevation Certificates as part of the Floodplain Development Permit process for the purposes of determining DFE for the construction/elevation of a structure, or to verify a structure meets the requirements of a Floodplain Development Permit.
 
@@ -348,7 +348,7 @@ A member of the public may request a copy of an Elevation Certificate through th
 
 > **NOTICE This Elevation Certificate was submitted to the City of Vernonia as part of a Floodplain Development Permit process. The City of Vernonia is not responsible for errors, misuse, omissions, or misinterpretations of this Elevation Certificate. The City of Vernonia does not make any claims as to the validity or usability of this Elevation Certificate for any purpose other than for the Floodplain Development Permit process for which it was submitted.**
 
-## Violations
+## 13. Violations
 
 The Code Enforcement Officer, with the assistance of the Floodplain Manager, uses those powers and procedures as provided in _Title 3 Public Protection_ and Title 9 _Land Use and Development_, to address and resolve violations of _Title 9-05_.
 
