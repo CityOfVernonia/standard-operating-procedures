@@ -16,7 +16,7 @@ https://vernonia-municipal-code.netlify.app/
 
 All documents are written with [GitHub Flavored Markdown](https://github.github.com/gfm/) and styled for the web using [github-markdown-css](https://github.com/sindresorhus/github-markdown-css). The only exception to the use of pure Markdown is `<sup>i</sup>` tags for superscript.
 
-Files use `.markdown` extension with the exception of `README.md`.
+Document files use `.markdown` extension.
 
 ## Format and Front Matter
 
@@ -24,9 +24,39 @@ Each document type has its own format and front matter spec.
 
 ### Standard Operating Procedures (SOP)
 
+File convention: `standard-operating-procedures\<NAME-LOWERCASE-HYPHENATED>\index.markdown`
+
 A SOP is a single document with numbered `H2` headings separating sections. Sections can contain paragraphs, lists, tables and blockquotes as needed.
 
-File convention: `standard-operating-procedures\<NAME>\index.markdown`
+**Format**
+
+```markdown
+# About and Usage
+
+About this...
+
+# Contents
+
+[1. Section one](#1-section-one)
+
+[2. Section two](#2-section-two)
+
+[3. Section three](#3-section-three)
+
+## 1. Section one
+
+Do this...
+
+## 2. Section two
+
+Then do this...
+
+## 3. Section three
+
+Finally do this...
+```
+
+**Front matter**
 
 ```yaml
 # SOP name
