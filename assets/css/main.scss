@@ -29,6 +29,28 @@ body {
   text-decoration: none !important;
 }
 
+.menu {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  z-index: 50;
+  padding: 6px 12px;
+  border-radius: 4px;
+  background-color: var(--color-canvas-default);
+  // color: var(--color-danger-fg);
+  border: solid 1px var(--color-border-default);
+}
+
+.menu-button {
+  text-align: right;
+}
+
+.menu-anchors {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+}
+
 // footer (all pages)
 footer {
   display: flex;
@@ -67,6 +89,7 @@ footer {
   position: fixed;
   right: 15px;
   bottom: 15px;
+  z-index: 25;
   padding: 12px;
   border-radius: 4px;
   background-color: var(--color-canvas-default);

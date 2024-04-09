@@ -5,10 +5,11 @@
     <title>{{ page.title }} | Standard Operating Procedures</title>
     <meta name="description" content="{{ page.description }}" />
     <link href="/assets/css/main.css" rel="stylesheet" />
-    <script type="module" src="/assets/js/anchors.js"></script>
+    <script type="module" src="/assets/js/sop-anchors-menu.js"></script>
   </head>
   <body class="markdown-body standard-operating-procedures">
     {%- if page.authoritative == false -%}{%- include non-authoritative.html -%}{%- endif -%}
+    {%- include menu.html -%}
     <header>
       <h2>City of Vernonia</h2>
       <h1>{{ page.title }}</h1>
